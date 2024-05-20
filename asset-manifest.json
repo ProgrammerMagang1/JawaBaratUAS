@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/JawaBaratUAS/static/css/main.687d33fa.css",
+    "main.js": "/JawaBaratUAS/static/js/main.f93a01e2.js",
+    "static/media/bandung1.jpg": "/JawaBaratUAS/static/media/bandung1.7dad87aa5008b0fa6533.jpg",
+    "static/media/background.jpg": "/JawaBaratUAS/static/media/background.a5098b8889de319e844c.jpg",
+    "static/media/cirebon3.jpg": "/JawaBaratUAS/static/media/cirebon3.0766bcbc6d8532af0113.jpg",
+    "static/media/bandung3.jpg": "/JawaBaratUAS/static/media/bandung3.4344e816e3d2457774de.jpg",
+    "static/media/cirebon2.jpg": "/JawaBaratUAS/static/media/cirebon2.6f652346c35c750fad9f.jpg",
+    "static/media/bandung4.jpg": "/JawaBaratUAS/static/media/bandung4.f8a5cf99101209089483.jpg",
+    "static/media/sunset.jpg": "/JawaBaratUAS/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "static/media/pangandaran.jpeg": "/JawaBaratUAS/static/media/pangandaran.12706b563e94c6f8d47c.jpeg",
+    "static/media/cirebon1.jpg": "/JawaBaratUAS/static/media/cirebon1.50240435a9eb6b030f77.jpg",
+    "static/media/bandung2.jpg": "/JawaBaratUAS/static/media/bandung2.47390e9783be4d82e537.jpg",
+    "static/media/bogor1.jpg": "/JawaBaratUAS/static/media/bogor1.a494c12ec8c5697b75f4.jpg",
+    "static/media/pang4.jpg": "/JawaBaratUAS/static/media/pang4.d3d323bf564e2359abdd.jpg",
+    "static/media/pang1.jpg": "/JawaBaratUAS/static/media/pang1.fd4cdfd81dd196cd528b.jpg",
+    "static/media/bogor3.jpg": "/JawaBaratUAS/static/media/bogor3.7d4f444fa821b613a0f9.jpg",
+    "static/media/bogor4.jpg": "/JawaBaratUAS/static/media/bogor4.61bc92fc7608f178a3e0.jpg",
+    "static/media/cirebon4.jpg": "/JawaBaratUAS/static/media/cirebon4.76e0df0566d7b4c85c4d.jpg",
+    "static/media/bogor2.jpg": "/JawaBaratUAS/static/media/bogor2.b7b19604e22dbd829c8a.jpg",
+    "static/media/pang2.jpg": "/JawaBaratUAS/static/media/pang2.644a206ca11e03fcc7c1.jpg",
+    "static/media/gedungsatee.jpg": "/JawaBaratUAS/static/media/gedungsatee.dc47e857ba3951726884.jpg",
+    "static/media/cirebon.jpg": "/JawaBaratUAS/static/media/cirebon.9cd13a4e98793cf8cd6c.jpg",
+    "static/media/pang3.jpg": "/JawaBaratUAS/static/media/pang3.a014c2d0fc95e34aff06.jpg",
+    "static/media/Theo.jpg": "/JawaBaratUAS/static/media/Theo.2542978f7fd424d6c1a4.jpg",
+    "static/media/logojbar.png": "/JawaBaratUAS/static/media/logojbar.32939edbebbe80bc572f.png",
+    "static/media/ER.jpg": "/JawaBaratUAS/static/media/ER.d9a15ffb6d5321d35a51.jpg",
+    "static/media/Jipeng.jpg": "/JawaBaratUAS/static/media/Jipeng.1dc4538a55506b2ec08e.jpg",
+    "static/media/Pael.jpg": "/JawaBaratUAS/static/media/Pael.ac7d11e72da89bf88cc4.jpg",
+    "static/media/depok.jpg": "/JawaBaratUAS/static/media/depok.9e2c19656fb478812bcb.jpg",
+    "static/media/bogor.jpg": "/JawaBaratUAS/static/media/bogor.ae95d05f2cd83a46fc71.jpg",
+    "index.html": "/JawaBaratUAS/index.html",
+    "main.687d33fa.css.map": "/JawaBaratUAS/static/css/main.687d33fa.css.map",
+    "main.f93a01e2.js.map": "/JawaBaratUAS/static/js/main.f93a01e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.687d33fa.css",
+    "static/js/main.f93a01e2.js"
+  ]
+}
